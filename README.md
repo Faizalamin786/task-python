@@ -143,11 +143,4 @@ Store student records permanently using CSV or a database.
 Add a graphical user interface (GUI).
 Generate student performance reports.
 Add student ranking and comparison.
-Export analytical results to PDF or Excel.
-👨‍💻 Author
 
-Your Name
-
-Python Project – Student Performance Analytics System
-
-⭐ If you find this project useful, don't forget to give it a star!
